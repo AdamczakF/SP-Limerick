@@ -1,1 +1,1 @@
-# Repozytoreium Mediów SP Limerick
+# Repozytorium Mediów SP Limerick
