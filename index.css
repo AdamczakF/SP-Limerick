@@ -198,6 +198,7 @@
   padding-top: var(--dl-space-space-unit);
 }
 .home-text06 {
+  font-style: italic;
   font-family: Playfair Display;
 }
 .home-caption {
