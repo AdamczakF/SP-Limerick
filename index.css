@@ -704,6 +704,12 @@
   color: #ffffff;
   font-size: 60px;
 }
+.portal-text {
+  color: #979797;
+  font-size: 15px;
+  font-style: italic;
+  font-family: Georgia;
+}
 .home-text20 {
   color: #ffffff;
 }
